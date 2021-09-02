@@ -1,0 +1,26 @@
+Variables:
+Son espacios en la memoria de la computadora que sirven para almacenar 
+información, esta información pueden ser números, letras, etc...
+
+Strings:
+Una letra es un caracter y si juntamos muchas letras(caracteres) podemos formar
+palabras, a este conjunto de caracteres que forman palabras se les conoce como 
+Strings.
+
+Funciones:
+Son porciones de código que hacen una tarea bien definida, en sus paréntesis
+puedes poner información que la función procesa y que con ayuda de un return 
+puedes usar esa información fuera de la función.
+
+Declaraciones 'if':
+En muchos momentos de nuestro día tenemos que tomar decisiones, desde que 
+ropa usar, hasta el camino a casa ó trabajo, en programación también se pueden 
+tomar decisiones basado en el resultado de una evaluación, en caso de que la 
+evaluación sea verdadera se ejecutan ciertas acciones y si la evaluación es 
+negativa se pueden ejecutar otras acciones diferentes.
+
+Valores booleanos:
+Son valores lógicos, solo pueden tener dos resultados diferentes 
+'true'(verdadero) o 'false'(falose), se usan en las evaluaciones, como la 
+anterior del 'if', el resultado del aevaluación en el ejemplo anterior es un 
+valor booleano.
