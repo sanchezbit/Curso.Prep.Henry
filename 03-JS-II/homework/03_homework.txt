@@ -1,0 +1,19 @@
+for:
+Es una instrucción que nos ayuda a ejecutar líneas de código mientras se cumpla
+una condición pero en este caso hacemos uso de un contador para ir 
+incrementando en cada vuelta (iteración), cuando el contador sea menor o igual 
+a la condición entonces el for deja de ejecutarse.
+
+&&:
+Es un operador lógico (AND / Y), que nos ayuda a combinar comparaciones, en 
+este caso solo devuelve verdadero si en ambas comparaciones el resultado es
+verdadero.
+
+||:
+Operador lógico (OR / O), que al igual que && nos ayuda a combinar 
+comparaciones pero en este caso con una sola comparación que sea verdadera el 
+valor que devuelve el OR es verdadero.
+
+!:
+Negación, con este operador negamos el valor bool actual, si es verdadero lo
+cambia a falso, si es falso lo cambia a verdadero.
