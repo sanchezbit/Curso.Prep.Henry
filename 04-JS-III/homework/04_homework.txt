@@ -1,0 +1,5 @@
+Un arreglo nos sirve para guardar valores, estos valores pueden ser de 
+diferentes tipos, números, letras, incluso otros arreglos. A cada valor que se
+guarda en el arreglo se le asigna un índice el cual indica en que posición
+dentro del arreglo se encuentra, estos índices empiezan en 0, siendo 0 la
+posición 1, 1 la posición 2, etc. 
