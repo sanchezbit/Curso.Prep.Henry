@@ -1,0 +1,18 @@
+Objetos: se utilizan para agrupar propiedades y comportamientos del objeto,
+los objetos normalmente hacen referencia a objetos de la vida real o a objetos 
+que si bien no son tangibles se les da el nombre de objetos, por ejemplo 
+realizar una conexión a una base de datos, a una web, etc.
+
+Propiedades: Describen al objeto, por ejemplo si el objeto va a tener un color,
+peso, edad, etc.
+
+Métodos: Es el comportamiento del objeto, si el objeto recibe datos los métodos
+serán los encargados de procesar esos datos.
+
+Bucle for...in: Se utiliza para recorrer todos los elementos que se encuentren
+dentro de una estructura de datos, por ejemplo de un array.
+
+Notación de punto vs notación de corchetes: es la manera en la que accedemos 
+a las propiedades de un objeto, con la notación punto objeto.clave se accede 
+de manera fácil a las propiades, pero con la notación de corchetes objeto[clave]
+se puede hacer uso de variables, para acceder a las propiedades del objeto.
